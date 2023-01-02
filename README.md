@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih Kaplama</h1>
 
-- 💻 I’m currently Frontend Developer at [Jotform](https://www.jotform.com/)
+- 💻 I’m currently Frontend Developer at [Jotform](https://www.jotform.com/).
 - 🌱 I’m currently learning Backend technologies.
 
 <h3 align="left">Connect with me:</h3>
