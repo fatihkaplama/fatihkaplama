@@ -40,6 +40,6 @@
   </a> 
 </p>
 <h3 align="left">My Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihkaplama&show_icons=true&theme=github_dark&title_color=00aaff&text_color=b8f3f4&bg_color=000000&hide_border=false&locale=en" alt="fatihkaplama" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihkaplama&show_icons=true&theme=github_dark&title_color=00aaff&text_color=b8f3f4&bg_color=000000&hide_border=false&locale=en" alt="fatihkaplama" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fatihkaplama&theme=highcontrast&ring=00AAFF&fire=00AAFF&currStreakLabel=008AFF&sideNums=00ACFF&sideLabels=00ACFF)](https://git.io/streak-stats)
