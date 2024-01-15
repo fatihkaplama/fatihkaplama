@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih Kaplama</h1>
 
-- 💻 I’m currently Backend Developer at [Mavidev](https://www.mavidev.com/).
-- 🌱 I’m currently learning Backend technologies.
+- 💻 I’m currently Backend Developer at [Token]([https://www.mavidev.com/](https://www.tokeninc.com/)).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
